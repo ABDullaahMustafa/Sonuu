@@ -100,7 +100,6 @@ os.system("clear")
 print  """
 logo = """
 \033[1;91m  _____________________________________________     
-
 \033[1;91m        ABDULLAH                               
 \033[1;92m                   MUSTAFA
 \033[1;97m        ABDULLAH
