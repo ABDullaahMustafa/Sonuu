@@ -97,7 +97,6 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
 logo = """
 \033[1;91m  _____________________________________________     
 \033[1;91m        ABDULLAH                               
